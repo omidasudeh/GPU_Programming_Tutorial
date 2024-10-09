@@ -3,7 +3,7 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
 
 ## Topics
 ### CUDA Programming Model
-1. **[Chapter 1: CPU vs GPU Architecture and Performance](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/01_introduction.md)**
+1. **[Chapter 1: CPU vs GPU Architecture and Performance](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/1.introduction.md)**
    - [1. Introduction](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/1.introduction.md)
    - [2. Efficiency of GPUs over CPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/2.efficiency.md)
    - [3. Structural Differences: CPU vs GPU](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/3.structural_differences.md)
