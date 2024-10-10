@@ -17,6 +17,9 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
    - [10. Limitations of GPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/10.limitations_of_gpus.md)
 
 2. **[Chapter 2: CUDA Programming In Practice](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/1.introduction.md)**
+   - [1. Introduction](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/1.introduction.md)
+   - [2. Host-Device Heterogeneous Programming Model](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/2.Host-Device-Model.md)
+   - [3. Increment Array Example](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/3.incrementArrayExp.md)
 
 ### GPU memory hierarchy
 1. memory optimization techniques, 
