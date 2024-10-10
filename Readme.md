@@ -20,6 +20,7 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
    - [1. Introduction](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/1.introduction.md)
    - [2. Host-Device Heterogeneous Programming Model](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/2.Host-Device-Model.md)
    - [3. Increment Array Example](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/3.incrementArrayExp.md)
+   - [4. Necessary Steps for Host-Device Heterogeneous Code](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/4.steps_Host_Device_Code.md)
 
 ### GPU memory hierarchy
 1. memory optimization techniques, 
