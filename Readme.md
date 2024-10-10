@@ -23,11 +23,11 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
    - [4. Necessary Steps for Host-Device Heterogeneous Code](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/4.steps_Host_Device_Code.md)
    - [5. CUDA Syntax](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/5.cuda_syntax.md)
 
-### GPU memory hierarchy
+<!-- ### GPU memory hierarchy
 1. memory optimization techniques, 
    - global memory coalescing, 
    - shared memory bank conflicts, 
-2. and a brief discussion on Warp Occupancy. 
+2. and a brief discussion on Warp Occupancy.  -->
 
 
 
