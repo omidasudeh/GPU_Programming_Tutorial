@@ -8,7 +8,7 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
    - [2. Efficiency of GPUs over CPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/2.efficiency.md)
    - [3. Structural Differences: CPU vs GPU](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/3.structural_differences.md)
    - [4. Streaming Multiprocessors (SMs) in GPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/4.streaming_multiprocessors.md)
-   - [5. Thread Hierarchy Organization in GPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/5.GPU_Thread_Hierarchy.md)
+   - [5. Thread Hierarchy Organization in GPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/5.GPU_Thread_Hierarchy-DataParalellModel.md)
    - [6. Two-Level Parallelism Latency hiding in GPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/6.two_level_parallelism.md)
    - [7. Synchronization in GPU Threads](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/7.synchronization.md)
    - [8. Work Division: CPUs vs GPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/8.work_division.md)
