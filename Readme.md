@@ -22,8 +22,14 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
    - [5. CUDA Syntax](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/5.cuda_syntax.md)
    - [6. Matrix Multiplication Example](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/6.matmul.md)
 
-3. **[Chapter 3: GPU Memory Hierarchy and Optimization](/CUDA%20Programming%20Model/Chapter%203:/introduction.md)**
-   - [1. Introduction](/CUDA%20Programming%20Model/Chapter%203:/introduction.md)
+3. **[Chapter 3: GPU Memory Hierarchy and Optimization](/CUDA%20Programming%20Model/Chapter%203:/1.introduction.md)**
+   - [1. Introduction](/CUDA%20Programming%20Model/Chapter%203:/1.introduction.md)
+   - [2. Common Challenges in GPU Programming](/CUDA%20Programming%20Model/Chapter%203:/2.common-challenges.md)
+   - [3. GPU Memory Hierarchy](/CUDA%20Programming%20Model/Chapter%203:/2.common-challenges.md)
+   - [4. Global Memory Coalescing](/CUDA%20Programming%20Model/Chapter%203:/4.global-memory-coalescing.md)
+   - [5. Shared Memory Bank Conflict](/CUDA%20Programming%20Model/Chapter%203:/5.share-memory-bank-conflict.md)
+   - [6. Thread Divergence](/CUDA%20Programming%20Model/Chapter%203:/6.thread-divergence.md)
+   - [7. Warp Occupancy](/CUDA%20Programming%20Model/Chapter%203:/7.occupancy.md)
 
 
 
