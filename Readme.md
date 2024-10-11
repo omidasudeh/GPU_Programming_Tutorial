@@ -2,7 +2,6 @@
 The goals for this CUDA tutorial are to gain a comprehensive understanding of the CUDA programming model, including SIMT threading, kernel structure, and GPU memory hierarchy, as well as practical knowledge of memory optimization techniques like global memory coalescing and shared memory bank conflicts.
 
 ## Topics
-### CUDA Programming Model
 1. **[Chapter 1: CPU vs GPU Architecture and Performance](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/1.introduction.md)**
    - [1. Introduction](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/1.introduction.md)
    - [2. Efficiency of GPUs over CPUs](/CUDA%20Programming%20Model/Chapter%201:%20CPU%20vs%20GPU%20Architecture%20and%20Performance/2.efficiency.md)
@@ -23,11 +22,8 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
    - [5. CUDA Syntax](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/5.cuda_syntax.md)
    - [6. Matrix Multiplication Example](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/6.matmul.md)
 
-
-<!-- 1. memory optimization techniques, 
-   - global memory coalescing, 
-   - shared memory bank conflicts, 
-2. and a brief discussion on Warp Occupancy.  -->
+3. **[Chapter 3: GPU Memory Hierarchy and Optimization](/CUDA%20Programming%20Model/Chapter%203:/introduction.md)**
+   - [1. Introduction](/CUDA%20Programming%20Model/Chapter%203:/introduction.md)
 
 
 
