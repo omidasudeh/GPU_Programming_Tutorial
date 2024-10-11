@@ -23,7 +23,6 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
    - [5. CUDA Syntax](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/5.cuda_syntax.md)
    - [6. Matrix Multiplication Example](/CUDA%20Programming%20Model/Chapter%202:%20CUDA%20Programming%20In%20Practice/6.matmul.md)
 
-### GPU memory hierarchy and Optimization
 
 <!-- 1. memory optimization techniques, 
    - global memory coalescing, 
