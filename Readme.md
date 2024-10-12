@@ -27,8 +27,8 @@ The goals for this CUDA tutorial are to gain a comprehensive understanding of th
    - [2. Common Challenges in GPU Programming](/CUDA%20Programming%20Model/Chapter%203:%20GPU%20Memory%20Hierarchy%20and%20Optimization/2.common-challenges.md)
    - [3. GPU Memory Hierarchy](/CUDA%20Programming%20Model/Chapter%203:%20GPU%20Memory%20Hierarchy%20and%20Optimization/2.common-challenges.md)
    - [4. Global Memory Coalescing](/CUDA%20Programming%20Model/Chapter%203:%20GPU%20Memory%20Hierarchy%20and%20Optimization/4.global-memory-coalescing.md)
-   <!-- - [5. Shared Memory Bank Conflict](/CUDA%20Programming%20Model/Chapter%203:%20GPU%20Memory%20Hierarchy%20and%20Optimization/5.share-memory-bank-conflict.md)
-   - [6. Thread Divergence](/CUDA%20Programming%20Model/Chapter%203:%20GPU%20Memory%20Hierarchy%20and%20Optimization/6.thread-divergence.md)
+   - [5. Shared Memory Programming](/CUDA%20Programming%20Model/Chapter%203:%20GPU%20Memory%20Hierarchy%20and%20Optimization/5.shared-memory-intro.md)
+   <!-- - [6. Thread Divergence](/CUDA%20Programming%20Model/Chapter%203:%20GPU%20Memory%20Hierarchy%20and%20Optimization/6.thread-divergence.md)
    - [7. Warp Occupancy](/CUDA%20Programming%20Model/Chapter%203:%20GPU%20Memory%20Hierarchy%20and%20Optimization/7.occupancy.md) -->
 
 
